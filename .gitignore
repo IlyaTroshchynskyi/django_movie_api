@@ -1,0 +1,6 @@
+.env
+celerybeat-schedule
+flower
+data
+.idea/
+__pycache__
